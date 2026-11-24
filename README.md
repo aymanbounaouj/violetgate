@@ -4,7 +4,7 @@
 
 [![Quality checks](https://github.com/aymanbouanouj/violetgate/actions/workflows/quality.yml/badge.svg)](https://github.com/aymanbouanouj/violetgate/actions/workflows/quality.yml)
 
-[**Live demo ↗**](https://aymanbouanouj.github.io/violetgate/) · [Source code](https://github.com/aymanbouanouj/violetgate)
+[**Live demo ↗**](https://aymanbounaouj.github.io/violetgate/) · [Source code](https://github.com/aymanbounaouj/violetgate)
 
 > [!IMPORTANT]
 > VioletGate is a **frontend-only demo**, not a real authentication service. No accounts are created, passwords are not verified or transmitted, and OAuth/password-reset actions are illustrative. **Do not enter real credentials.**
